@@ -2,7 +2,7 @@
 
 ## What is 
 
-Des.
+Des.,
 
 ## Requirement specifications
 
