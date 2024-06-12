@@ -2,7 +2,7 @@
 
 ## What is 
 
-DECMA is an application android that can help  detect malaria, providing significant benefits to the community, especially in areas where malaria remains a major health concern. By knowing this information, users can take further preventive measures.
+Des.
 
 ## Requirement specifications
 
